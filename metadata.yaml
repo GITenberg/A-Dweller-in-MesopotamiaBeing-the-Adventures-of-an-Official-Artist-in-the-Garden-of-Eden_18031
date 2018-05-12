@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7760'
     url: http://www.gutenberg.org/2009/agents/7760
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18031#A-Dweller-in-MesopotamiaBeing-the-Adventures-of-an-Official-Artist-in-the-Garden-of-Eden
 gutenberg_issued: '2006-03-20'
 gutenberg_type: Text
 identifiers:
